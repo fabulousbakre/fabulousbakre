@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fabulousbakre
-- 🧠 I am a UI/UX designer and Webflow designer
-- 🌱 Currently learning Full Stack Web Devekopment (HTML, CSS, Bootstrap, JavaScript, React etc)
-- 🤝 I’m looking to collaborate on web design projects
+- 🧠 I am a Webflow developer and front-end web developer (HTML, CSS, Bootstrap, JavaScript, React)
+- 🤝 I’m looking to collaborate on web development projects
 - 🌍 My portfolio website - https://faruq-bakre.webflow.io/
 - 📫 How to reach me via email: faruqbakreweb@gmail.com
 
